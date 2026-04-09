@@ -66,3 +66,14 @@ User Input → Streamlit UI → Prompt Processing → Ollama (LLM) → Response 
 ```bash
 git clone https://github.com/dharmes18/NarrativeFlow-Interactive-Story-Co-Writer.git
 cd NarrativeFlow-Interactive-Story-Co-Writer
+
+## 📸 Demo
+
+### 🖥️ User Interface
+![UI](assets/ui.png)
+
+### ✨ Story Generation
+![Output](assets/story_output.png)
+
+### 🔒 Domain Restriction
+![Restriction](assets/restriction.png)
